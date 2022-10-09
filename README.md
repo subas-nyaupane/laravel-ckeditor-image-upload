@@ -188,5 +188,5 @@ class ImageController extends Controller
 
 * don't forget add @stack('script') your blade file *
 
-* cheers 🍻 *
+* cheers 🍻 
 
