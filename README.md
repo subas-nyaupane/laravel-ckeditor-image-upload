@@ -1,6 +1,6 @@
 # laravel ckeditor image upload
 
-simple ckeditor image upload laravel
+
 
 
 
@@ -186,7 +186,7 @@ class ImageController extends Controller
 ~~~
 
 
-* don't forget add @stack('script') your blade file
+* don't forget add ~~~ @stack('script') ~~~ your app blade file
 
 * cheers 🍻 
 
